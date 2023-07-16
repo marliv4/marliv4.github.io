@@ -24,7 +24,6 @@ navbar-links:
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "marliv4.github.io"
 
 ################
 # --- Logo --- #
@@ -50,7 +49,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "marko.livajusic4@protonmail.com"
+  email: "marko.livajusic4@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: marliv4
   # twitter: daattali
